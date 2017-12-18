@@ -1,0 +1,17 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "prakhar tripathi <tripathiprakhar40@gmail.com> ",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "sequelize":''
+  }
+}
